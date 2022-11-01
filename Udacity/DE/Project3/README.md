@@ -1,5 +1,6 @@
 
 Project Title# Sparkify Milion Song Dataset Analysis
+
 Project Description#
     This project is about a music streaming startup called as Sparkify. Their data resides in S3, in a directory of JSON logs on user activity on the app and songs JSON metadata.
     As part of this project, build an ETL pipeline that extracts data from S3, stages them and transform data into a set of dim tables for finding insights into what songs user are listening to.
